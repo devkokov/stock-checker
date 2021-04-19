@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Product 1",
+    "url": "https://shopify.example.com/product1.js",
+    "type": "shopify"
+  },
+  {
+    "name": "Product 2",
+    "url": "https://salesforce.example.com/product2",
+    "type": "salesforceAvailableSoon"
+  }
+]
